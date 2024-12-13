@@ -30,7 +30,7 @@ int main()
      cout << "You have received very KAK items.\n";
   }
   if (rank == 'D'){
-     cout << "You have received very KAK items.\n";
+     cout <<"You have received very KAK items.\n";
   }
   return 0;
 }
